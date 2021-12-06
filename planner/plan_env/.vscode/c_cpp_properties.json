@@ -1,0 +1,45 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/seuer/project/ego_planner_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/seuer/project/Prometheus/devel/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/planner/bspline_opt/include/**",
+        "/home/seuer/project/Prometheus/Modules/ego_planner/ego-planner-swarm/src/planner/drone_detect/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/planner/plan_manage/include/**",
+        "/home/seuer/project/Prometheus/Modules/mocap_ekf/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/uav_simulator/mockamap/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/uav_simulator/Utils/multi_map_server/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/planner/path_searching/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/planner/plan_env/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/uav_simulator/Utils/pose_utils/include/**",
+        "/home/seuer/project/Prometheus/Modules/control/include/**",
+        "/home/seuer/project/Prometheus/Simulator/gazebo_simulator/include/**",
+        "/home/seuer/project/Prometheus/Modules/planning/global_planning/include/**",
+        "/home/seuer/project/Prometheus/Modules/planning/hybrid_astar/include/**",
+        "/home/seuer/project/Prometheus/Modules/planning/local_planner/include/**",
+        "/home/seuer/project/Prometheus/Modules/mission/include/**",
+        "/home/seuer/project/Prometheus/Modules/planning/FastPlanner/plan_manage/include/**",
+        "/home/seuer/project/Prometheus/Modules/planning/Utils/pose_utils/include/**",
+        "/home/seuer/project/Prometheus/Modules/slam/include/**",
+        "/home/seuer/project/Prometheus/Modules/ground_station/include/**",
+        "/home/seuer/project/Prometheus/Modules/swarm_control/include/**",
+        "/home/seuer/project/Prometheus/Modules/planning/swarm_planning/include/**",
+        "/home/seuer/project/Prometheus/Modules/ugv_control/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/uav_simulator/Utils/quadrotor_msgs/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/uav_simulator/so3_control/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/planner/traj_utils/include/**",
+        "/home/seuer/project/ego_planner_ws/src/ego-planner/src/uav_simulator/Utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
